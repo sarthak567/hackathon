@@ -1,0 +1,16 @@
+.testimonials {
+  padding: 2rem;
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+}
+
+.testimonials .testimonial-item {
+  margin-bottom: 1.5rem;
+  font-style: italic;
+}
+
+.testimonials h4 {
+  margin-top: 0.5rem;
+  font-weight: normal;
+}
